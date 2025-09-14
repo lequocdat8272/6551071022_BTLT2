@@ -4,6 +4,7 @@ Bài tập thiết kế web
 changelog:
 - 14/9/2025:
   + Hoàn thành Bài 6, 7.
+  + Sửa title Bài 4.
   
 - 13/9/2025:
   + Hoàn thành Bài 4, 5.
